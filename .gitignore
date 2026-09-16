@@ -1,0 +1,16 @@
+# Flutter / Dart
+**/.dart_tool/
+**/build/
+**/.packages
+**/.pub-cache/
+
+# IDE
+**/.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+
+# OS
+.DS_Store
+Thumbs.db
